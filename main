@@ -1,0 +1,38 @@
+This GitHub page dedicated to the concept of High Value Target is setup in order for the community to provide feedback on the main components of the High Value Target concept:
+A) Definition
+B) Relevance
+C) Stage-1 Attributes
+D) Stage-2 Attributes
+
+Please post your issues or suggestions in this page and for any further query please consider the following contact details below:
+Email: contact@highvaluetarget.org
+Website: www.highvaluetarget.org
+
+A) Definition of High Value Targets (what are they)
+High Value Targets (HVTs) are information systems, data, roles, processes for which unauthorized access, use, disclosure, disruption, modification, or destruction could cause a significant impact to an organization’s ability to perform its mission or conduct business. 
+These systems may contain sensitive controls, configurations, instructions or data which is then leveraged for critical information systems’ management, they may house unique collections of secrets as well as be systems that perform defensive operations (such as delivering protect, detect, investigate, respond capabilities). 
+HVTs can as well be referred to as transversal technology supporting important business services 8 (or an organization’s crown jewels), which need to be identified and properly secured to better handle the environmental changes caused by an advanced adversary.
+
+B) Relevance of High Value Targets (why are they important)
+Current Cyber Resilience and Business Impact Analysis (BIA) industry best practices lack clear guidance on how organizations can identify the value that an advanced attacker places on possible targets, which defines the tactical reliance on the attack value chain from an architectural system standpoint. 
+By doing so, you can prioritize your security budget without over-investing in controls for some assets (Crown Jewels) and under-investing in others (HVTs).
+The main purpose of an organization’s cyber resilience efforts is to implement best practices, strategies and techniques that would ensure survivability of essential functions during a coordinated, destructive cyberattack. This goal is achieved by making it costly and difficult for advanced adversaries to break into an organization’s environment, to maintain stealthy presence and hence strengthening the system-of-system’s ability to recover mission critical functions after adversity. 
+Once HVTs are identified, secured and continuously governed, an organization’s cyber resilience posture is significantly increased.
+
+C) Phase-1 Attributes
+Critical infrastructure targets, an organization’s assets whose unavailability, exposure, modification or corruption would significantly disrupt an organization's mission; 
+Control plane targets, an organization’s assets which contain sensitive controls, configurations and instructions;
+Cyber defense targets, an organization’s assets which provide protective, detective, investigative and responsive capabilities; 
+Informational value targets, an organization’s assets which contain significant value in the form of stored or transit data, otherwise referred to as crown jewels.
+
+D) Phase-2 Attributes
+Stealthiness, the target could provide an adversary with the ability to bypass detection tools;
+Internal prospecting, the target could provide an adversary visibility into the control plane; 
+External exposure, the asset could be exposed to an adversary due to its location in accessible zones for initial compromise, allows pivoting from non-trusted to trusted networks.
+Stores secrets, the asset could provide an adversary access to stored secrets that can be stolen or abused;
+Infiltrate comms, the asset could provide an adversary access to defender in-band or out-of-band communication tools;
+Blindside defense, the asset could provide an adversary the ability to impair investigative capabilities and detective visibility to the defender;
+Tamper prone, the asset functionalities could be weaponized by an adversary to support malicious actions such as confuse defense;
+Inhibit restoration, the asset could provide an adversary the ability to permanently damage backup and restore capabilities; 
+Stores data, the asset could provide an adversary access to highly valuable or large amount of data;
+Widespread presence, the assets’ pervasive implementation and capabilities could provide an attacker the means to dynamically establish a foothold within the environment.
